@@ -1,7 +1,5 @@
-# Satark - An Emergency Alert App
-
-In India, a lack of situational awareness in case a blaze erupts is a cause of major concern. Most of us do not know what to do, in even a small fire, let alone fight it. In case one is stuck in ablaze. Chances are, people may not even be aware of the emergency numbers to dial in such situations.  
-Our idea is to provide a mobile platform for swift communication between the fire station and the witness. Witnesses would be able to alert the fire station immediately. The data would include the details such as number of victims, the severity of the incident, the exact location using GPS and the details about the locality. The authorities would thus be able to tackle the situation more effectively. Not only that, this solution can be applied to a variety of problems such as road accidents, which are responsible for half the deaths in the country and even other unprecedented incidents.
+# ResQLink: Autonomous First Responder
+ResQLink: Autonomous First Responder is an innovative disaster response solution that combines AI-powered emergency prioritization, autonomous UAV navigation, and resilient communication systems to enhance rescue operations. It features dual communication networks (Wi-Fi and LoRa), real-time SOS capture via a UAV-hosted platform, and a smart resource allocation system powered by advanced AI models. With a scalable design for multi-disaster scenarios, ResQLink ensures efficient coordination, long-range connectivity, and effective decision-making through a real-time tracking dashboard, revolutionizing first-response efforts in critical situations.
 
 ## Built With
 
@@ -20,7 +18,7 @@ Our idea is to provide a mobile platform for swift communication between the fir
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/sharmajsr/satark.git
+https://github.com/J-B-Mugundh/ResQLink-Responder-App
 ```
 
 **Step 2:**
